@@ -1,0 +1,15 @@
+{
+  "name": "URLArgsParser",
+  "keywords": "url, argument, parser",
+  "description": "Simple parsing arguments in incoming URL for Arduino WEB projects.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NailAlex/URLArgsParser.git"
+  },
+  "version": "1.0",
+  "exclude": [
+    "*.zip"
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
